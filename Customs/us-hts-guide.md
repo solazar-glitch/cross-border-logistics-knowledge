@@ -1,5 +1,16 @@
-美国HTS编码查询指南
-1. 查询美国HTS
-2. 判断301关税
-3. 判断AD/CVD
-4. FDA监管要求
+美国HTS查询指南
+
+第一步：
+查询HTS编码
+
+第二步：
+查询301关税
+
+网站：
+https://hts.usitc.gov
+
+第三步：
+查询FDA
+
+网站：
+https://www.accessdata.fda.gov
